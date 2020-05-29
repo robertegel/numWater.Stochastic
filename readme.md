@@ -5,6 +5,7 @@
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 View [concept.pdf](https://github.com/robertegel/numWater.Stochastic/blob/master/concept.pdf) for more information about the models behavior.
+This project continues where a previous unpublished group project left off.
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
