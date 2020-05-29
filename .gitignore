@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+#*.png
+.DS_Store
+*.ipynb_checkpoints*
+*pictures*
+#concept.pdf
+*archive*
