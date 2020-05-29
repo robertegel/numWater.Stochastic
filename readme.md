@@ -1,4 +1,4 @@
-# numWater.Social
+# numWater.Stochastic
 
 ## A numeric model for water supply systems including considerations about random precipitation
 
